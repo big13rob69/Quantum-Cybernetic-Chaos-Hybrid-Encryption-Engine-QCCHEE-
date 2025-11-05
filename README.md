@@ -13,8 +13,6 @@ In an era defined by geopolitical competition and adversarial cyber warfare, the
 The Dual Deep Learning Architecture
 The core of the QCCHEE system is a symbiotic, adversarial relationship between two specialized deep learning models that act as the system's brain. This is a perpetual, self-correcting process designed to fortify defenses in real-time.
 
-Deep Learning Models are Licensed by Google
-
 The Encryption Model: This is the master architect. It has been trained on a comprehensive library of all known cryptographic algorithms, vulnerabilities, and attack vectors. When data is received, it performs an instant, dynamic triage. It analyzes the content, sensitivity, and required latency of each data segment to make an intelligent, predictive decision on the best security protocol to apply.
 
 The Adversarial Decryptor: This model is the ultimate cyber guardian. Its sole mission is to ruthlessly attack the encryption model's output. It operates in a continuous cycle of trial-and-error, teaching itself to find and exploit any and all weaknesses. What makes this adversarial loop so powerful is that the decryptor is only permitted to change its own code, forcing it to find novel ways to attack. Any vulnerability it exposes is immediately communicated to the encryption model, which then adapts and fortifies its own protocols, ensuring the system becomes stronger with every attempted compromise.
