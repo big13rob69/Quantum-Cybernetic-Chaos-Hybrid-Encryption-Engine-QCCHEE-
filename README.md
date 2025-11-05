@@ -3,9 +3,9 @@
 
 Introducing Project QCCHEE: 
 The Unhackable, Living Security Engine
-In a world where cyber threats evolve faster than our defenses, traditional encryption is a static shield against a dynamic storm. Hackers adapt, algorithms are broken, and tomow's quantum computers threaten to dismantle today's most secure systems. You need more than a wall; you need a living fortress.
+In a world where cyber threats evolve faster than our defenses, traditional encryption is a static shield against a dynamic storm. Hackers adapt, algorithms are broken, and tomorrow's quantum computers threaten to dismantle today's most secure systems. You need more than a wall; you need a living fortress.
 
-Welcome to the Quantum-Cybernetic Hybrid Engine (QCCHEE), the future of unassailable data security.
+Welcome to the Quantum-Cybernetic Hybrid Engine (QCCHEE)
 
 Project QCCHEE: The Quantum-Cybernetic-Chaos-Hybrid-Encryption-Engine
 In an era defined by geopolitical competition and adversarial cyber warfare, the integrity of secure communications is not just a priority—it is the foundation of operational dominance. The landscape of digital threats is evolving, with adversaries already stockpiling encrypted data for a future quantum-enabled attack. Our solution is not a static defense, but a living, intelligent security ecosystem designed to ensure cryptographic agility and absolute confidentiality.
