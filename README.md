@@ -1,35 +1,19 @@
-# Quantum Cybernetic Chaos Hybrid Encryption Engine (QCCHEE)
+This directory includes a few sample datasets to get you started.
 
+*   `california_housing_data*.csv` is California housing data from the 1990 US
+    Census; more information is available at:
+    https://docs.google.com/document/d/e/2PACX-1vRhYtsvc5eOR2FWNCwaBiKL6suIOrxJig8LcSBbmCbyYsayia_DvPOOBlXZ4CAlQ5nlDD8kTaIDRwrN/pub
 
+*   `mnist_*.csv` is a small sample of the
+    [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), which is
+    described at: http://yann.lecun.com/exdb/mnist/
 
-# Quantum-Cybernetic Chaos Hybrid Encryption Engine (QCCHEE)
+*   `anscombe.json` contains a copy of
+    [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet); it
+    was originally described in
 
-**Project Overview**  
-QCCHEE is an experimental hybrid encryption framework that combines post-quantum cryptographic primitives with adaptive, chaos-derived entropy and hardware-backed key management. The goal is cryptographic agility: dynamically selecting the optimal algorithm per data stream while maintaining high performance and forward secrecy.
+    Anscombe, F. J. (1973). 'Graphs in Statistical Analysis'. American
+    Statistician. 27 (1): 17-21. JSTOR 2682899.
 
-**Core Architecture**  
-- **Dual Adversarial Deep Learning Layer** (research prototype): An encryption model trained on cryptographic primitives and attack vectors works in tandem with an adversarial model that stress-tests outputs in real time. Weaknesses are fed back to strengthen the system.  
-- **Dynamic Triage Engine**: Selects from a rotating set of NIST post-quantum candidates based on sensitivity, latency, and payload size.
-
-**Supported Post-Quantum Primitives**  
-**Key Encapsulation (KEM):**  
-- ML-KEM (Kyber) – primary for speed  
-- FrodoKEM – conservative lattice fallback  
-- BIKE – code-based diversity  
-
-**Digital Signatures:**  
-- Dilithium – general purpose  
-- FALCON – minimal signature size  
-- SPHINCS+ – hash-based long-term security  
-
-**Key Generation & Entropy**  
-Volatile keys are derived from hardware entropy sources (TPM, Intel RDRAND) combined with chaotic attractors (Lorenz/Logistic maps). Keys mutate per block using ciphertext feedback, eliminating static storage and replay risk. No persistent keys are written to disk.
-
-**Additional Security Features**  
-- Zero-trust design  
-- Zero-knowledge proof support (ZK-SNARKs/STARKs)  
-- Threshold/multi-signature capability  
-- Optional timed key self-destruct
-
-**Current Status**  
-Proof-of-concept stage. Python implementation with TPM integration available. Deep-learning components are in planning/training phase (see training notes in repo). Not production-ready; intended for research and controlled testing.
+    and our copy was prepared by the
+    [vega_datasets library](https://github.com/altair-viz/vega_datasets/blob/4f67bdaad10f45e3549984e17e1b3088c731503d/vega_datasets/_data/anscombe.json).

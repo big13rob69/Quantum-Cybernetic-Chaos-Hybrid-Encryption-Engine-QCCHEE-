@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "data_size_bytes": 626260,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 1,
+    "data_size_bytes": 579775,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 2,
+    "data_size_bytes": 261360,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 3,
+    "data_size_bytes": 790904,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 4,
+    "data_size_bytes": 745302,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 5,
+    "data_size_bytes": 764088,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 6,
+    "data_size_bytes": 649780,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 7,
+    "data_size_bytes": 682961,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 8,
+    "data_size_bytes": 687840,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 9,
+    "data_size_bytes": 366960,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 10,
+    "data_size_bytes": 867919,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 11,
+    "data_size_bytes": 511981,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 12,
+    "data_size_bytes": 623024,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 13,
+    "data_size_bytes": 704384,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 14,
+    "data_size_bytes": 804701,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 15,
+    "data_size_bytes": 788786,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 16,
+    "data_size_bytes": 40322,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 17,
+    "data_size_bytes": 830127,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 18,
+    "data_size_bytes": 525768,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 19,
+    "data_size_bytes": 171349,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 20,
+    "data_size_bytes": 828436,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 21,
+    "data_size_bytes": 674790,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 22,
+    "data_size_bytes": 316384,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 23,
+    "data_size_bytes": 453995,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 24,
+    "data_size_bytes": 982869,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 25,
+    "data_size_bytes": 353948,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 26,
+    "data_size_bytes": 161094,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 27,
+    "data_size_bytes": 543208,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 28,
+    "data_size_bytes": 403136,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 29,
+    "data_size_bytes": 926550,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 30,
+    "data_size_bytes": 11470,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 31,
+    "data_size_bytes": 707336,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 32,
+    "data_size_bytes": 698446,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 33,
+    "data_size_bytes": 653785,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 34,
+    "data_size_bytes": 676966,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 35,
+    "data_size_bytes": 615346,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 36,
+    "data_size_bytes": 827440,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 37,
+    "data_size_bytes": 812509,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 38,
+    "data_size_bytes": 580951,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 39,
+    "data_size_bytes": 313470,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 40,
+    "data_size_bytes": 865673,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 41,
+    "data_size_bytes": 28831,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 42,
+    "data_size_bytes": 98952,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 43,
+    "data_size_bytes": 43329,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 44,
+    "data_size_bytes": 388742,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 45,
+    "data_size_bytes": 465138,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 46,
+    "data_size_bytes": 429877,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 47,
+    "data_size_bytes": 341971,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 48,
+    "data_size_bytes": 529274,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 49,
+    "data_size_bytes": 681722,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 50,
+    "data_size_bytes": 354622,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 51,
+    "data_size_bytes": 61693,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 52,
+    "data_size_bytes": 129877,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 53,
+    "data_size_bytes": 185503,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 54,
+    "data_size_bytes": 699439,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 55,
+    "data_size_bytes": 5551,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 56,
+    "data_size_bytes": 320998,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 57,
+    "data_size_bytes": 322432,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 58,
+    "data_size_bytes": 148670,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 59,
+    "data_size_bytes": 750093,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 60,
+    "data_size_bytes": 98181,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 61,
+    "data_size_bytes": 456003,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 62,
+    "data_size_bytes": 647485,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 63,
+    "data_size_bytes": 625494,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 64,
+    "data_size_bytes": 159224,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 65,
+    "data_size_bytes": 247927,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 66,
+    "data_size_bytes": 301582,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 67,
+    "data_size_bytes": 809145,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 68,
+    "data_size_bytes": 996676,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 69,
+    "data_size_bytes": 147423,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 70,
+    "data_size_bytes": 735316,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 71,
+    "data_size_bytes": 774224,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 72,
+    "data_size_bytes": 292616,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 73,
+    "data_size_bytes": 765531,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 74,
+    "data_size_bytes": 484051,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 75,
+    "data_size_bytes": 144258,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 76,
+    "data_size_bytes": 588550,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 77,
+    "data_size_bytes": 749251,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 78,
+    "data_size_bytes": 949310,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 79,
+    "data_size_bytes": 859218,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 80,
+    "data_size_bytes": 376408,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 81,
+    "data_size_bytes": 945590,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 82,
+    "data_size_bytes": 709914,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 83,
+    "data_size_bytes": 725451,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 84,
+    "data_size_bytes": 633729,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 85,
+    "data_size_bytes": 657349,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 86,
+    "data_size_bytes": 19042,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 87,
+    "data_size_bytes": 830067,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 88,
+    "data_size_bytes": 252393,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 89,
+    "data_size_bytes": 246553,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 90,
+    "data_size_bytes": 813310,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 91,
+    "data_size_bytes": 607620,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 92,
+    "data_size_bytes": 423303,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 93,
+    "data_size_bytes": 910341,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 94,
+    "data_size_bytes": 951364,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 95,
+    "data_size_bytes": 228405,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 96,
+    "data_size_bytes": 643520,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 97,
+    "data_size_bytes": 422983,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 98,
+    "data_size_bytes": 306170,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 99,
+    "data_size_bytes": 239902,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 100,
+    "data_size_bytes": 244704,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 101,
+    "data_size_bytes": 137090,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 102,
+    "data_size_bytes": 853455,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 103,
+    "data_size_bytes": 949270,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 104,
+    "data_size_bytes": 818506,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 105,
+    "data_size_bytes": 863310,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 106,
+    "data_size_bytes": 202628,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 107,
+    "data_size_bytes": 17809,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 108,
+    "data_size_bytes": 550981,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 109,
+    "data_size_bytes": 844200,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 110,
+    "data_size_bytes": 722319,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 111,
+    "data_size_bytes": 883806,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 112,
+    "data_size_bytes": 396583,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 113,
+    "data_size_bytes": 469755,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 114,
+    "data_size_bytes": 448459,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 115,
+    "data_size_bytes": 528422,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 116,
+    "data_size_bytes": 949996,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 117,
+    "data_size_bytes": 686968,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 118,
+    "data_size_bytes": 276074,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 119,
+    "data_size_bytes": 293299,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 120,
+    "data_size_bytes": 178467,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 121,
+    "data_size_bytes": 615799,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 122,
+    "data_size_bytes": 596971,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 123,
+    "data_size_bytes": 800708,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 124,
+    "data_size_bytes": 256615,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 125,
+    "data_size_bytes": 549608,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 126,
+    "data_size_bytes": 628413,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 127,
+    "data_size_bytes": 37800,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 128,
+    "data_size_bytes": 45365,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 129,
+    "data_size_bytes": 615773,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 130,
+    "data_size_bytes": 379717,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 131,
+    "data_size_bytes": 799336,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 132,
+    "data_size_bytes": 997371,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 133,
+    "data_size_bytes": 246016,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 134,
+    "data_size_bytes": 53534,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 135,
+    "data_size_bytes": 520800,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 136,
+    "data_size_bytes": 25055,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 137,
+    "data_size_bytes": 311658,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 138,
+    "data_size_bytes": 258794,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 139,
+    "data_size_bytes": 153816,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 140,
+    "data_size_bytes": 378555,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 141,
+    "data_size_bytes": 521641,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 142,
+    "data_size_bytes": 410022,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 143,
+    "data_size_bytes": 697145,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 144,
+    "data_size_bytes": 629093,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 145,
+    "data_size_bytes": 139374,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 146,
+    "data_size_bytes": 994807,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 147,
+    "data_size_bytes": 748343,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 148,
+    "data_size_bytes": 118009,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 149,
+    "data_size_bytes": 615389,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 150,
+    "data_size_bytes": 750758,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 151,
+    "data_size_bytes": 860665,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 152,
+    "data_size_bytes": 114471,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 153,
+    "data_size_bytes": 19103,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 154,
+    "data_size_bytes": 188518,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 155,
+    "data_size_bytes": 662652,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 156,
+    "data_size_bytes": 981560,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 157,
+    "data_size_bytes": 720997,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 158,
+    "data_size_bytes": 733770,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 159,
+    "data_size_bytes": 780705,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 160,
+    "data_size_bytes": 251798,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 161,
+    "data_size_bytes": 202212,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 162,
+    "data_size_bytes": 907238,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 163,
+    "data_size_bytes": 936430,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 164,
+    "data_size_bytes": 945087,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 165,
+    "data_size_bytes": 562254,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 166,
+    "data_size_bytes": 588357,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 167,
+    "data_size_bytes": 104319,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 168,
+    "data_size_bytes": 112346,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 169,
+    "data_size_bytes": 109156,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 170,
+    "data_size_bytes": 633093,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 171,
+    "data_size_bytes": 151926,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 172,
+    "data_size_bytes": 933294,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 173,
+    "data_size_bytes": 40400,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 174,
+    "data_size_bytes": 640505,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 175,
+    "data_size_bytes": 118148,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 176,
+    "data_size_bytes": 437981,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 177,
+    "data_size_bytes": 453087,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 178,
+    "data_size_bytes": 409354,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 179,
+    "data_size_bytes": 598594,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 180,
+    "data_size_bytes": 941803,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 181,
+    "data_size_bytes": 436190,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 182,
+    "data_size_bytes": 613931,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 183,
+    "data_size_bytes": 251211,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 184,
+    "data_size_bytes": 109406,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 185,
+    "data_size_bytes": 383017,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 186,
+    "data_size_bytes": 304563,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 187,
+    "data_size_bytes": 881813,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 188,
+    "data_size_bytes": 25536,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 189,
+    "data_size_bytes": 328607,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 190,
+    "data_size_bytes": 387819,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 191,
+    "data_size_bytes": 336996,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 192,
+    "data_size_bytes": 505927,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 193,
+    "data_size_bytes": 952969,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 194,
+    "data_size_bytes": 280695,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 195,
+    "data_size_bytes": 867608,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 196,
+    "data_size_bytes": 668144,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 197,
+    "data_size_bytes": 876700,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 198,
+    "data_size_bytes": 396109,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 199,
+    "data_size_bytes": 378351,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 200,
+    "data_size_bytes": 605721,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 201,
+    "data_size_bytes": 542352,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 202,
+    "data_size_bytes": 916439,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 203,
+    "data_size_bytes": 530151,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 204,
+    "data_size_bytes": 78438,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 205,
+    "data_size_bytes": 317224,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 206,
+    "data_size_bytes": 182639,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 207,
+    "data_size_bytes": 11201,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 208,
+    "data_size_bytes": 825417,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 209,
+    "data_size_bytes": 507115,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 210,
+    "data_size_bytes": 338843,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 211,
+    "data_size_bytes": 59469,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 212,
+    "data_size_bytes": 299027,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 213,
+    "data_size_bytes": 997845,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 214,
+    "data_size_bytes": 998269,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 215,
+    "data_size_bytes": 161010,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 216,
+    "data_size_bytes": 112276,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 217,
+    "data_size_bytes": 619797,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 218,
+    "data_size_bytes": 907800,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 219,
+    "data_size_bytes": 580531,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 220,
+    "data_size_bytes": 267422,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 221,
+    "data_size_bytes": 23677,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 222,
+    "data_size_bytes": 309882,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 223,
+    "data_size_bytes": 981059,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 224,
+    "data_size_bytes": 722590,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 225,
+    "data_size_bytes": 391897,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 226,
+    "data_size_bytes": 740603,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 227,
+    "data_size_bytes": 933985,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 228,
+    "data_size_bytes": 97431,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 229,
+    "data_size_bytes": 816270,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 230,
+    "data_size_bytes": 311032,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 231,
+    "data_size_bytes": 426014,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 232,
+    "data_size_bytes": 471350,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 233,
+    "data_size_bytes": 700181,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 234,
+    "data_size_bytes": 329007,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 235,
+    "data_size_bytes": 610711,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 236,
+    "data_size_bytes": 30076,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 237,
+    "data_size_bytes": 907414,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 238,
+    "data_size_bytes": 341580,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 239,
+    "data_size_bytes": 425807,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 240,
+    "data_size_bytes": 466702,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 241,
+    "data_size_bytes": 139226,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 242,
+    "data_size_bytes": 426570,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 243,
+    "data_size_bytes": 955008,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 244,
+    "data_size_bytes": 926970,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 245,
+    "data_size_bytes": 4309,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-512",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 246,
+    "data_size_bytes": 256734,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 247,
+    "data_size_bytes": 884100,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 248,
+    "data_size_bytes": 169624,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 249,
+    "data_size_bytes": 252390,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 250,
+    "data_size_bytes": 940399,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 251,
+    "data_size_bytes": 215772,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 252,
+    "data_size_bytes": 628208,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 253,
+    "data_size_bytes": 555107,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 254,
+    "data_size_bytes": 996865,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 255,
+    "data_size_bytes": 783355,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 256,
+    "data_size_bytes": 53247,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 257,
+    "data_size_bytes": 57195,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 258,
+    "data_size_bytes": 595922,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 259,
+    "data_size_bytes": 84125,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 260,
+    "data_size_bytes": 836554,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 261,
+    "data_size_bytes": 564525,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 262,
+    "data_size_bytes": 261687,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 263,
+    "data_size_bytes": 166885,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 264,
+    "data_size_bytes": 253182,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 265,
+    "data_size_bytes": 830071,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 266,
+    "data_size_bytes": 204065,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 267,
+    "data_size_bytes": 830306,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 268,
+    "data_size_bytes": 240538,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 269,
+    "data_size_bytes": 612434,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 270,
+    "data_size_bytes": 946546,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 271,
+    "data_size_bytes": 491738,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 272,
+    "data_size_bytes": 816176,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 273,
+    "data_size_bytes": 604123,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 274,
+    "data_size_bytes": 44169,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 275,
+    "data_size_bytes": 164010,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 276,
+    "data_size_bytes": 469051,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 277,
+    "data_size_bytes": 664790,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 278,
+    "data_size_bytes": 94366,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 279,
+    "data_size_bytes": 116276,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 280,
+    "data_size_bytes": 935203,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 281,
+    "data_size_bytes": 682971,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 282,
+    "data_size_bytes": 463789,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 283,
+    "data_size_bytes": 343298,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 284,
+    "data_size_bytes": 997699,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 285,
+    "data_size_bytes": 268229,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 286,
+    "data_size_bytes": 765583,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 287,
+    "data_size_bytes": 876163,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 288,
+    "data_size_bytes": 583155,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 289,
+    "data_size_bytes": 966588,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 290,
+    "data_size_bytes": 362042,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 291,
+    "data_size_bytes": 517034,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 292,
+    "data_size_bytes": 824901,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 293,
+    "data_size_bytes": 392798,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 294,
+    "data_size_bytes": 510537,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 295,
+    "data_size_bytes": 495242,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 296,
+    "data_size_bytes": 719572,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 297,
+    "data_size_bytes": 230614,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 298,
+    "data_size_bytes": 842152,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 299,
+    "data_size_bytes": 527838,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 300,
+    "data_size_bytes": 391348,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 301,
+    "data_size_bytes": 549532,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 302,
+    "data_size_bytes": 827602,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 303,
+    "data_size_bytes": 646668,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 304,
+    "data_size_bytes": 586547,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 305,
+    "data_size_bytes": 188562,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 306,
+    "data_size_bytes": 652266,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 307,
+    "data_size_bytes": 562375,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 308,
+    "data_size_bytes": 989622,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 309,
+    "data_size_bytes": 152509,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 310,
+    "data_size_bytes": 535956,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 311,
+    "data_size_bytes": 802089,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 312,
+    "data_size_bytes": 20216,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 313,
+    "data_size_bytes": 593154,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 314,
+    "data_size_bytes": 935560,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 315,
+    "data_size_bytes": 296952,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 316,
+    "data_size_bytes": 390353,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 317,
+    "data_size_bytes": 778754,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 318,
+    "data_size_bytes": 745603,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 319,
+    "data_size_bytes": 1790,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-512",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 320,
+    "data_size_bytes": 666437,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 321,
+    "data_size_bytes": 260538,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 322,
+    "data_size_bytes": 576905,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 323,
+    "data_size_bytes": 85952,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 324,
+    "data_size_bytes": 425100,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 325,
+    "data_size_bytes": 553134,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 326,
+    "data_size_bytes": 281642,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 327,
+    "data_size_bytes": 403038,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 328,
+    "data_size_bytes": 661215,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 329,
+    "data_size_bytes": 687570,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 330,
+    "data_size_bytes": 637922,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 331,
+    "data_size_bytes": 609007,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 332,
+    "data_size_bytes": 29264,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 333,
+    "data_size_bytes": 728567,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 334,
+    "data_size_bytes": 648617,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 335,
+    "data_size_bytes": 783312,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 336,
+    "data_size_bytes": 702788,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 337,
+    "data_size_bytes": 554991,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 338,
+    "data_size_bytes": 46946,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 339,
+    "data_size_bytes": 413989,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 340,
+    "data_size_bytes": 164336,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 341,
+    "data_size_bytes": 622944,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 342,
+    "data_size_bytes": 446803,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 343,
+    "data_size_bytes": 230315,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 344,
+    "data_size_bytes": 125036,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 345,
+    "data_size_bytes": 805480,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 346,
+    "data_size_bytes": 508656,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 347,
+    "data_size_bytes": 363257,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 348,
+    "data_size_bytes": 533957,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 349,
+    "data_size_bytes": 430575,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 350,
+    "data_size_bytes": 450611,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 351,
+    "data_size_bytes": 252716,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 352,
+    "data_size_bytes": 167851,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 353,
+    "data_size_bytes": 332659,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 354,
+    "data_size_bytes": 548012,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 355,
+    "data_size_bytes": 934955,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 356,
+    "data_size_bytes": 90385,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 357,
+    "data_size_bytes": 475186,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 358,
+    "data_size_bytes": 637000,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 359,
+    "data_size_bytes": 283629,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 360,
+    "data_size_bytes": 143601,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 361,
+    "data_size_bytes": 897104,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 362,
+    "data_size_bytes": 394511,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 363,
+    "data_size_bytes": 634701,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 364,
+    "data_size_bytes": 363050,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 365,
+    "data_size_bytes": 990370,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 366,
+    "data_size_bytes": 877571,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 367,
+    "data_size_bytes": 11060,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 368,
+    "data_size_bytes": 32826,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 369,
+    "data_size_bytes": 176,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 370,
+    "data_size_bytes": 145341,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 371,
+    "data_size_bytes": 478818,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 372,
+    "data_size_bytes": 145567,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 373,
+    "data_size_bytes": 487658,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 374,
+    "data_size_bytes": 248119,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 375,
+    "data_size_bytes": 526379,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 376,
+    "data_size_bytes": 190642,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 377,
+    "data_size_bytes": 659912,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 378,
+    "data_size_bytes": 829891,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 379,
+    "data_size_bytes": 989346,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 380,
+    "data_size_bytes": 677889,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 381,
+    "data_size_bytes": 598175,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 382,
+    "data_size_bytes": 236831,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 383,
+    "data_size_bytes": 360206,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 384,
+    "data_size_bytes": 778234,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 385,
+    "data_size_bytes": 998303,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 386,
+    "data_size_bytes": 365976,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 387,
+    "data_size_bytes": 545268,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 388,
+    "data_size_bytes": 132663,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 389,
+    "data_size_bytes": 57096,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 390,
+    "data_size_bytes": 493090,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 391,
+    "data_size_bytes": 783550,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 392,
+    "data_size_bytes": 458404,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 393,
+    "data_size_bytes": 762554,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 394,
+    "data_size_bytes": 84586,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 395,
+    "data_size_bytes": 293141,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 396,
+    "data_size_bytes": 933757,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 397,
+    "data_size_bytes": 533447,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 398,
+    "data_size_bytes": 610156,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 399,
+    "data_size_bytes": 12466,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 400,
+    "data_size_bytes": 786138,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 401,
+    "data_size_bytes": 535037,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 402,
+    "data_size_bytes": 835640,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 403,
+    "data_size_bytes": 356759,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 404,
+    "data_size_bytes": 950285,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 405,
+    "data_size_bytes": 336988,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 406,
+    "data_size_bytes": 89148,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 407,
+    "data_size_bytes": 186318,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 408,
+    "data_size_bytes": 411576,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 409,
+    "data_size_bytes": 14017,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 410,
+    "data_size_bytes": 689660,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 411,
+    "data_size_bytes": 891623,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 412,
+    "data_size_bytes": 848079,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 413,
+    "data_size_bytes": 837655,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 414,
+    "data_size_bytes": 292267,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 415,
+    "data_size_bytes": 413566,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 416,
+    "data_size_bytes": 384844,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 417,
+    "data_size_bytes": 824401,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 418,
+    "data_size_bytes": 501443,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 419,
+    "data_size_bytes": 43896,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 420,
+    "data_size_bytes": 17010,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 421,
+    "data_size_bytes": 173685,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 422,
+    "data_size_bytes": 810195,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 423,
+    "data_size_bytes": 440027,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 424,
+    "data_size_bytes": 229789,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 425,
+    "data_size_bytes": 555282,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 426,
+    "data_size_bytes": 68231,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 427,
+    "data_size_bytes": 481120,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 428,
+    "data_size_bytes": 683149,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 429,
+    "data_size_bytes": 460979,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 430,
+    "data_size_bytes": 1308,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 431,
+    "data_size_bytes": 673746,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 432,
+    "data_size_bytes": 483263,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 433,
+    "data_size_bytes": 579544,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 434,
+    "data_size_bytes": 492557,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 435,
+    "data_size_bytes": 162877,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 436,
+    "data_size_bytes": 928484,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 437,
+    "data_size_bytes": 327864,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 438,
+    "data_size_bytes": 620578,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 439,
+    "data_size_bytes": 973189,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 440,
+    "data_size_bytes": 170162,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 441,
+    "data_size_bytes": 471916,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 442,
+    "data_size_bytes": 823543,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 443,
+    "data_size_bytes": 333885,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 444,
+    "data_size_bytes": 832327,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 445,
+    "data_size_bytes": 693563,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 446,
+    "data_size_bytes": 462787,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 447,
+    "data_size_bytes": 386705,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 448,
+    "data_size_bytes": 827726,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 449,
+    "data_size_bytes": 228398,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 450,
+    "data_size_bytes": 957068,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 451,
+    "data_size_bytes": 580913,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 452,
+    "data_size_bytes": 605758,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 453,
+    "data_size_bytes": 664319,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 454,
+    "data_size_bytes": 284736,
+    "security_level": 3,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 455,
+    "data_size_bytes": 255951,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 456,
+    "data_size_bytes": 23145,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 457,
+    "data_size_bytes": 595976,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 458,
+    "data_size_bytes": 112195,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 459,
+    "data_size_bytes": 823390,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 460,
+    "data_size_bytes": 689760,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 461,
+    "data_size_bytes": 574836,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 462,
+    "data_size_bytes": 459147,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 463,
+    "data_size_bytes": 764641,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 464,
+    "data_size_bytes": 741245,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 465,
+    "data_size_bytes": 784200,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 466,
+    "data_size_bytes": 581463,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 467,
+    "data_size_bytes": 635201,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 468,
+    "data_size_bytes": 583863,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 469,
+    "data_size_bytes": 639334,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 470,
+    "data_size_bytes": 436302,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 471,
+    "data_size_bytes": 859247,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 472,
+    "data_size_bytes": 353333,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 473,
+    "data_size_bytes": 729670,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 474,
+    "data_size_bytes": 893778,
+    "security_level": 1,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 475,
+    "data_size_bytes": 935313,
+    "security_level": 1,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 476,
+    "data_size_bytes": 64059,
+    "security_level": 2,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-44"
+  },
+  {
+    "id": 477,
+    "data_size_bytes": 370801,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 478,
+    "data_size_bytes": 73670,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 479,
+    "data_size_bytes": 14559,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 480,
+    "data_size_bytes": 900959,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 481,
+    "data_size_bytes": 295538,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 482,
+    "data_size_bytes": 790885,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 483,
+    "data_size_bytes": 919379,
+    "security_level": 3,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 484,
+    "data_size_bytes": 434193,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 485,
+    "data_size_bytes": 872190,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 486,
+    "data_size_bytes": 437475,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 487,
+    "data_size_bytes": 60081,
+    "security_level": 5,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-768",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 488,
+    "data_size_bytes": 216050,
+    "security_level": 4,
+    "latency_sensitivity": "high",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 489,
+    "data_size_bytes": 269378,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 490,
+    "data_size_bytes": 252597,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 491,
+    "data_size_bytes": 917392,
+    "security_level": 5,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 492,
+    "data_size_bytes": 602362,
+    "security_level": 4,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 493,
+    "data_size_bytes": 682738,
+    "security_level": 3,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 494,
+    "data_size_bytes": 281718,
+    "security_level": 2,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 495,
+    "data_size_bytes": 184670,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 496,
+    "data_size_bytes": 856752,
+    "security_level": 2,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-65"
+  },
+  {
+    "id": 497,
+    "data_size_bytes": 323101,
+    "security_level": 1,
+    "latency_sensitivity": "medium",
+    "bandwidth_constraint": true,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 498,
+    "data_size_bytes": 268803,
+    "security_level": 5,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  },
+  {
+    "id": 499,
+    "data_size_bytes": 396903,
+    "security_level": 4,
+    "latency_sensitivity": "low",
+    "bandwidth_constraint": false,
+    "recommended_kem": "ML-KEM-1024",
+    "recommended_signature": "ML-DSA-87"
+  }
+]
